@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 👨‍💻 I’m currently studing in Atharva College of Engineering in IT Stream(2nd Year) 🤘😎🤘
-- 📘  I’m currently learning Everything 😅
+- 👨‍💻 I’m currently studying in Atharva College of Engineering in IT Stream(2nd Year) 🤘😎🤘
+- 📘  I’m currently learning Python 🐍
 - ⚡ Fun fact: I love to Ride 🚲
 <!-- - 👯 I’m looking to collaborate with other content creators 😄 -->
 
