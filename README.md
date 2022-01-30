@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Ride
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varun-2510 &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varun-2510&theme=radical)
