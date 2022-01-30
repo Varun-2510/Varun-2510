@@ -1,4 +1,4 @@
-### Hola, I am Varun Hatkar 👋
+### Hi there, I am  Varun Hatkar 👋
 
 <!--
 **Varun-2510/Varun-2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
