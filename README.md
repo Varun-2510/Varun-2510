@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing 4th Year of IT Engineering 👨🏻‍🎓<br>🌱 I’m currently learning Data Analytics 📈<br>🌠 Hobbies: Badminton, Cricket, Photography 📸<br>⚡ Fun fact: Love to Ride 🚲
+🔭 I’m currently pursuing 4th Year of IT Engineering 👨🏻‍🎓<br>🌱 I’m currently learning Data Analytics 📈<br>🌠 Hobbies: Badminton, Cricket, Photography 📸<br>⚡ Fun fact: I know the Truth behind the lies.
 
 
 ## 🌐 Socials:
